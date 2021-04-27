@@ -3,7 +3,7 @@ from datetime import date
 import random
 
 today = date.today()
-reps = ["Ryan F", "Max Goshen","Julian Nav","Ethan S", "Nick G", "Chris B","Aaron Jones","Connor McShane","Joe Onulak"]
+reps = ["Ryan","Max","Julian","Ethan", "Nick", "Chris","Aaron","Connor","Joe"]
 
 # Create a window object
 window = tk.Tk()
